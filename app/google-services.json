@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416285027894",
+    "firebase_url": "https://incivisme-b9ce2-default-rtdb.firebaseio.com",
+    "project_id": "incivisme-b9ce2",
+    "storage_bucket": "incivisme-b9ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416285027894:android:6ebfbf1d6389c84a833297",
+        "android_client_info": {
+          "package_name": "com.example.incivisme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416285027894-teijg9li8dkis5395kn1crrq1j7nf0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWuRA2DcJO0Jx0FROgoFYAEX2im_FqB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416285027894-teijg9li8dkis5395kn1crrq1j7nf0eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

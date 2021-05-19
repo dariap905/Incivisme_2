@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Incivisme</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="location_text">"Latitud: %1$.4f \nLongitud: %2$.4f\nHora: %3$tr"</string>
+    <string name="address_text">"Direcció: %1$s \n Hora: %2$tr"</string>
+    <string name="comen_a_a_seguir_la_ubicaci">Comença a seguir la ubicació</string>
+    <string name="localitzacio">localitzacio</string>
+</resources>
